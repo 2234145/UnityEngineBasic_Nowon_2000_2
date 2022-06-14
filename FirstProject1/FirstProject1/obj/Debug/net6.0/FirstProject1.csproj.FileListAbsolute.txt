@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\bin\Debug\net6.0\FirstProject1.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\bin\Debug\net6.0\FirstProject1.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\bin\Debug\net6.0\FirstProject1.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\bin\Debug\net6.0\FirstProject1.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\bin\Debug\net6.0\ref\FirstProject1.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\bin\Debug\net6.0\FirstProject1.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\ref\FirstProject1.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\FirstProject1\obj\Debug\net6.0\FirstProject1.genruntimeconfig.cache
