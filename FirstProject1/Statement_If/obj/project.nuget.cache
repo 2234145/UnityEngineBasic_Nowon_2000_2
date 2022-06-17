@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1gy26XBS3bP3oJKVnAipRa1qkX3LGKfRNULWWg4hm/1AYJP7f5f/voSfT+1dM+/41AG4d7c5hVhGnpTPlx1mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\FirstProject1\\Statement_If\\Statement_If.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
