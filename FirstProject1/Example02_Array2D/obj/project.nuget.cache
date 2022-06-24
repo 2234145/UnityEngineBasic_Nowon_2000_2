@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c7gOTnvRqgDu6AN7xpkXwx/UdVi1f7fa4EH+7U50ClatkBYqpU5I6fYyzNaz7Zwgq8Flix3WeZpTkek9GxwGgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\FirstProject1\\Example02_Array2D\\Example02_Array2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
