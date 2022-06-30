@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Enum_SwitchCase\obj\Debug\net5.0\Enum_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Enum_SwitchCase\obj\Debug\net5.0\Enum_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Enum_SwitchCase\obj\Debug\net5.0\Enum_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Enum_SwitchCase\obj\Debug\net5.0\Enum_SwitchCase.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Enum_SwitchCase\obj\Debug\net5.0\Enum_SwitchCase.csproj.CoreCompileInputs.cache
