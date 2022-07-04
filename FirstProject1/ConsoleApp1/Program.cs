@@ -40,18 +40,41 @@ namespace Example4_HorseRacing
             int length = arr_Horse.Length;
             for (int i = 0; i < length; i++)
             {
-                arr_Horse[i] = new Horse($"{i} 번마");
+                arr_Horse[i] = new Horse();
                 arr_Horse[i].name = $"경주마{i + 1}";
             }
             Console.WriteLine("경주시작!");
-            int 
+            int count = 0;
             //경주중
-            while (true) 
+            while (isGameFinished == false)
             {
-                 
-                Thread.Sleep(1000);
+                Console.WriteLine($"==============={count} 초 =============");
+                for (int i = 0; i < length;i++)
+                {
+                    random = new Random();
+                    int tmpMoveDistance = random.Next(minSpeed, maxSpeed + 1);
+                    arr_Horse[i].Run(tmpMoveDistance);
+                    Console.WriteLine($"{arr_Horse[i].name} 가 달린거리 : {arr_Horse[i].distance}");
+                    if (arr_Horse[i].distance >= finishedDistance)
+                    {
+                        arr_Horse[i].dontMove = true;
+                        arr_FinishedHorseName[currentGrade - 1] = arr_Horse[i].name;
+                        currentGrade++;
+                    }
+                }
             }
+            Console.WriteLine($"====================================================");
+            if (currentGrade > 5)
+            {
+                isGameFinished = true;
+                Console.WriteLine("경주 끝!");
+                
+            }
+            Thread.Sleep(1000);
+            count++;
         }
+
+         
     }
 
     public class Horse
@@ -59,6 +82,7 @@ namespace Example4_HorseRacing
         public string name;
         public int distance;
         public bool enabled;
+        internal bool dontMove;
 
         public void Run(int mobeDistance)
         {

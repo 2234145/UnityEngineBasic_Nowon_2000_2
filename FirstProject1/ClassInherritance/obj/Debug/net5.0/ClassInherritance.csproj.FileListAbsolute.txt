@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\bin\Debug\net5.0\ClassInherritance.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\bin\Debug\net5.0\ClassInherritance.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\bin\Debug\net5.0\ClassInherritance.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\bin\Debug\net5.0\ClassInherritance.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\bin\Debug\net5.0\ClassInherritance.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\bin\Debug\net5.0\ref\ClassInherritance.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\bin\Debug\net5.0\ClassInherritance.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ClassInherritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ClassInherritance.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ClassInherritance.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ClassInherritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ClassInherritance.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ref\ClassInherritance.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ClassInherritance.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\ClassInherritance\obj\Debug\net5.0\ClassInherritance.genruntimeconfig.cache
