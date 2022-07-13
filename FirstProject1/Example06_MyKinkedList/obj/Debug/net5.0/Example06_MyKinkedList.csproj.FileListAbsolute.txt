@@ -1,0 +1,4 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Example06_MyKinkedList\obj\Debug\net5.0\Example06_MyKinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Example06_MyKinkedList\obj\Debug\net5.0\Example06_MyKinkedList.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Example06_MyKinkedList\obj\Debug\net5.0\Example06_MyKinkedList.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstProject1\Example06_MyKinkedList\obj\Debug\net5.0\Example06_MyKinkedList.csproj.CoreCompileInputs.cache
