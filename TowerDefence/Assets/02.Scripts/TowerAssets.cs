@@ -5,7 +5,6 @@ using UnityEngine;
 public class TowerAssets : MonoBehaviour
 {
     private static TowerAssets _instance;
-
     public static TowerAssets instance
     {
         get
@@ -18,6 +17,7 @@ public class TowerAssets : MonoBehaviour
 
     [SerializeField] private List<GameObject> _towers;
     [SerializeField] private List<GameObject> _ghostTowers;
+
     public bool TryGetTower(string towerName, out GameObject tower)
     {
         tower = _towers.Find(x => x.name == towerName);

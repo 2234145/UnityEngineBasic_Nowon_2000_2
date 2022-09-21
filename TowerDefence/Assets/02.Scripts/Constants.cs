@@ -1,6 +1,4 @@
-
 public static class Constants
 {
-    
-}
 
+}

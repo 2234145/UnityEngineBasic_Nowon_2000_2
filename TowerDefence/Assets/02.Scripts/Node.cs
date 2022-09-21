@@ -7,35 +7,37 @@ public class Node : MonoBehaviour
     public bool IsTowerExist => _towerBuilt;
     private Tower _towerBuilt;
     private Renderer _renderer;
-
     private Color _originalColor;
     [SerializeField] private Color _buildAvailableColor;
     [SerializeField] private Color _buildNotAvailableColor;
-    private float up;
 
-    public float GetUp()
+    public void Clear()
     {
-        return up;
+        if (_towerBuilt != null)
+            Destroy(_towerBuilt.gameObject);
+        _towerBuilt = null;
     }
 
-    public bool TryBuildTowerHere(string towerName, float up)
+    public bool TryBuildTowerHere(string towerName, out Tower towerBuilt)
     {
         bool isOK = false;
+        towerBuilt = null;
 
         if (IsTowerExist)
         {
-            Debug.Log("해당위치에 타워를 건설할 수 없습니다. ");
+            Debug.Log("해당위치에 타워를 건설할 수 없습니다.");
             return false;
-
         }
 
         if (TowerAssets.instance.TryGetTower(towerName, out GameObject tower))
         {
-           GameObject built = Instantiate(tower,
-                                                              transform.position + Vector3.up * 0.5f,
-                                                              Quaternion.identity,
-                                                              transform);
+            GameObject built = Instantiate(tower, 
+                                           transform.position + Vector3.up * 0.5f,
+                                           Quaternion.identity,
+                                           transform);
             _towerBuilt = built.GetComponent<Tower>();
+            _towerBuilt.node = this;
+            towerBuilt = _towerBuilt;
             isOK = true;
         }
         return isOK;
@@ -49,11 +51,11 @@ public class Node : MonoBehaviour
 
     private void OnMouseEnter()
     {
-
         if (IsTowerExist)
             _renderer.material.color = _buildNotAvailableColor;
         else
             _renderer.material.color = _buildAvailableColor;
+
         NodeManager.mouseOnNode = this;
     }
 

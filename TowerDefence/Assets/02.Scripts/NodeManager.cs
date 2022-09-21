@@ -9,13 +9,12 @@ public class NodeManager : MonoBehaviour
     {
         set
         {
-           // if (TowerHandler.instance.isSelected)
-             //   TowerHandler.instance.SetGhostTowerPosition(_mouseOnNode.transform.position);
+            //if (TowerHandler.instance.isSelected)
+            //    TowerHandler.instance.SetGhostTowerPosition(_mouseOnNode.transform.position);
         }
         get
         {
             return _mouseOnNode;
         }
     }
-
 }
